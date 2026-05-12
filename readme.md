@@ -1,5 +1,17 @@
 # 💫 About Me
-Currently progressing through the BSc (Hons) Cyber Security degree at Teesside University with first-class grades, building practical experience through infrastructure labs, security-focused development and enterprise security projects.<br><br>My professional background includes several years of experience across:<br><br>Telecommunications support<br>Fraud prevention & risk analysis<br>Technical troubleshooting<br>Operational escalation handling<br>Compliance & data protection
+Projected First Class BSc (Hons) Cyber Security graduate, building practical experience through infrastructure labs, security-focused development and enterprise security projects.
+
+<br><br>
+
+My professional background includes several years of experience across:
+
+<br><br>
+
+• Telecommunications support<br>
+• Fraud prevention & risk analysis<br>
+• Technical troubleshooting<br>
+• Operational escalation handling<br>
+• Compliance & data protection
 
 
 ## 🌐 Socials
