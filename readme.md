@@ -1,6 +1,6 @@
 # 💫 About Me
 Final-year BSc (Hons) Cyber Security student, projected to graduate in 2027 with First Class honours whilst building practical experience through infrastructure labs, security-focused development and enterprise security projects.
-<br><br>
+<br>
 
 My professional background includes several years of experience across:
 <br><br>
