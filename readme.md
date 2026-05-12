@@ -1,12 +1,9 @@
 # 💫 About Me
 Projected First Class BSc (Hons) Cyber Security graduate, building practical experience through infrastructure labs, security-focused development and enterprise security projects.
-
 <br><br>
 
 My professional background includes several years of experience across:
-
 <br><br>
-
 • Telecommunications support<br>
 • Fraud prevention & risk analysis<br>
 • Technical troubleshooting<br>
