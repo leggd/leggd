@@ -4,7 +4,7 @@ Final-year BSc (Hons) Cyber Security student, projected to graduate in 2027 with
 
 My professional background includes several years of experience across:
 <br><br>
-• Telecommunications support<br>
+• Broadband & network support<br>
 • Fraud prevention & risk analysis<br>
 • Technical troubleshooting<br>
 • Operational escalation handling<br>
